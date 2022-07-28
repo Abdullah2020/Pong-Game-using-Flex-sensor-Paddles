@@ -35,7 +35,7 @@ Voltage Divider circuit connected to flex sensor
 
 Pong Game interface built with processing
 
-![image](https://user-images.githubusercontent.com/16369782/181632017-abb0351e-cd43-4799-86c8-ba99eb7643a9.png)
+![image](https://user-images.githubusercontent.com/16369782/181632373-184f3a2a-195f-457c-9e6d-7c5a90a67820.png)
 
 
 Server/Client Integration
